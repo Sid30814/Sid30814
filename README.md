@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sid30814
 - 👀 I’m interested in Exploring new tech
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning python
 
 
 <!---
